@@ -1,0 +1,17 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.job-card {
+  border: 1px solid #ddd;
+  padding: 12px;
+  margin-bottom: 10px;
+}
