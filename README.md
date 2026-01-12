@@ -17,5 +17,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 run - 
-cd job-listing
+cd job-listing,
 npm run dev
